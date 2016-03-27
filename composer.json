@@ -1,0 +1,13 @@
+{
+    "name": "lxpgw/test-project",
+    "license": "mIT",
+    "authors": [
+        {
+            "name": "lichunqiang",
+            "email": "light-li@hotmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.7"
+    }
+}
